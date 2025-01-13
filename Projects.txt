@@ -1,2 +1,6 @@
 Number Guessing Game but with java graphical user interface
 Library project login 
+
+Bank create account was already finsihed, however you are automaticly logged in, I don't want that
+task: use a hashmap to save the users password and usersame. Then create a method for logging the user in.
+This will be a lovely little jorney on actually using a HashMap <3
