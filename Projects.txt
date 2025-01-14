@@ -6,4 +6,4 @@ task: use a hashmap to save the users password and usersame. Then create a metho
 This will be a lovely little jorney on actually using a HashMap <3
 
 E-commerce System
-Create a simple console-based e-commerce platform where users can browse products, add them to a cart
+Create a simple console-based e-commerce platform where users can browse products, add them to a cart, and checkout (purchase them)
