@@ -11,3 +11,6 @@ Create a simple console-based e-commerce platform where users can browse product
 Weather Application
 Use an API like OpenWeatherMap to fetch and display the current weather for a given city.
 Skills: API integration, JSON parsing.
+
+Student Management System
+Create a system to manage student records, including adding, editing, and displaying student details.
