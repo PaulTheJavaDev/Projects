@@ -22,3 +22,4 @@ Skills: Input validation, switch-case statements.
 
 Calculator but with javafx thing
 Create a console-based calculator that performs basic arithmetic operations (add, subtract, multiply, divide).
+Skills: Basic I/O, conditional statements, loops.
