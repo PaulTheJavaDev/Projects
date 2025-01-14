@@ -15,3 +15,6 @@ Skills: API integration, JSON parsing.
 Student Management System
 Create a system to manage student records, including adding, editing, and displaying student details.
 Skills: File handling or database integration, object-oriented programming.
+
+Unit Converter
+Build a program to convert units like temperature (Celsius to Fahrenheit), distance (km to miles), etc.
