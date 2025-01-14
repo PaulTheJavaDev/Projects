@@ -18,3 +18,4 @@ Skills: File handling or database integration, object-oriented programming.
 
 Unit Converter
 Build a program to convert units like temperature (Celsius to Fahrenheit), distance (km to miles), etc.
+Skills: Input validation, switch-case statements.
