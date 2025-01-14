@@ -7,3 +7,6 @@ This will be a lovely little jorney on actually using a HashMap <3
 
 E-commerce System
 Create a simple console-based e-commerce platform where users can browse products, add them to a cart, and checkout (purchase them)
+
+Weather Application
+Use an API like OpenWeatherMap to fetch and display the current weather for a given city.
