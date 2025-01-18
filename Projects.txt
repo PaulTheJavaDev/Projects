@@ -3,18 +3,3 @@ Library project login
 E-commerce System
 Create a simple console-based e-commerce platform where users can browse products, add them to a cart, and checkout (purchase them)
 
-Weather Application
-Use an API like OpenWeatherMap to fetch and display the current weather for a given city.
-Skills: API integration, JSON parsing.
-
-Student Management System
-Create a system to manage student records, including adding, editing, and displaying student details.
-Skills: File handling or database integration, object-oriented programming.
-
-Unit Converter
-Build a program to convert units like temperature (Celsius to Fahrenheit), distance (km to miles), etc.
-Skills: Input validation, switch-case statements.
-
-Calculator but with javafx thing
-Create a console-based calculator that performs basic arithmetic operations (add, subtract, multiply, divide).
-Skills: Basic I/O, conditional statements, loops.
