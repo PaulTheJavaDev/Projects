@@ -11,3 +11,11 @@ Prime Number Checker
 Enhancements:
 -Generate all prime numbers in a given range.
 -Display the factors of non-prime numbers.
+
+Simple Encryption Program
+What you'll learn: Strings, loops, basic algorithms.
+
+Description: Write a program that encrypts and decrypts text using a simple substitution cipher.
+Enhancements:
+Add support for different cipher algorithms like Caesar cipher.
+Allow the user to choose encryption or decryption.
