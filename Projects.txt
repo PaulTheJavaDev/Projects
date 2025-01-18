@@ -19,3 +19,11 @@ Description: Write a program that encrypts and decrypts text using a simple subs
 Enhancements:
 Add support for different cipher algorithms like Caesar cipher.
 Allow the user to choose encryption or decryption.
+
+Simple Quiz Application
+What you'll learn: Classes, ArrayList, and input/output.
+
+Description: Create a quiz app where users answer multiple-choice questions. Score the user based on their answers.
+Enhancements:
+Allow users to input their own questions.
+Randomize the question order each time.
