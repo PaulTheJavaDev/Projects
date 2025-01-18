@@ -3,3 +3,6 @@ Library project login
 E-commerce System
 Create a simple console-based e-commerce platform where users can browse products, add them to a cart, and checkout (purchase them)
 
+Description: Create a basic calculator
+-Add advanced operations like square root, power, and modulus.
+-Implement a history feature to store past calculations.(After each calculation, save the operation (e.g., "5 + 3 = 8") as a String in an ArrayList.)
