@@ -6,3 +6,8 @@ Create a simple console-based e-commerce platform where users can browse product
 Description: Create a basic calculator
 -Add advanced operations like square root, power, and modulus.
 -Implement a history feature to store past calculations.(After each calculation, save the operation (e.g., "5 + 3 = 8") as a String in an ArrayList.)
+
+Prime Number Checker
+Enhancements:
+-Generate all prime numbers in a given range.
+-Display the factors of non-prime numbers.
