@@ -1,3 +1,13 @@
+Interview styled Subjects
+-Arrays
+-Linked List
+-Stacks
+-Queues
+-HashMap
+-Binary Tree
+-Priority Queues
+-Graphs?
+
 Library project login 
 
 E-commerce System
