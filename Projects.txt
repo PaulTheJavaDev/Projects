@@ -8,6 +8,9 @@ Interview styled Subjects
 -Priority Queues
 -Graphs?
 
+Learn O(n)
+-Spreadsheet on your computer
+
 E-commerce System
 Create a simple console-based e-commerce platform where users can browse products, add them to a cart, and checkout (purchase them)
 
